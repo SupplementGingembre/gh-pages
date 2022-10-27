@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de contenu",
+    "description": "",
+    "home_page_url": "https://supplementgingembre.github.io/gh-pages",
+    "feed_url": "https://supplementgingembre.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://supplementgingembre.github.io/gh-pages/media/website/Annotation-2020-09-15-092709.png",
+    "author": {
+        "name": "SupplementGingembre"
+    },
+    "items": [
+        {
+            "id": "https://supplementgingembre.github.io/gh-pages/test2.html",
+            "url": "https://supplementgingembre.github.io/gh-pages/test2.html",
+            "title": "test2",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales neque vitae lacus egestas, a pulvinar lacus lacinia. Quisque in mi vel ex maximus vehicula sit amet sed magna. Etiam vel massa non felis molestie semper id eget turpis. Cras condimentum tortor in purus congue&hellip;",
+            "content_html": "<ul>\n<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>\n<li>Curabitur sodales neque vitae lacus egestas, a pulvinar lacus lacinia.</li>\n<li>Quisque in mi vel ex maximus vehicula sit amet sed magna.</li>\n<li>Etiam vel massa non felis molestie semper id eget turpis.</li>\n<li>Cras condimentum tortor in purus congue commodo.</li>\n<li>Quisque at felis a odio malesuada sollicitudin eu ac mi.</li>\n<li>Vivamus porta eros vestibulum mollis commodo.</li>\n<li>Mauris euismod arcu vel velit commodo, ac tincidunt magna tempor.</li>\n<li>Quisque suscipit tortor blandit turpis luctus sagittis</li>\n</ul>",
+            "author": {
+                "name": "SupplementGingembre"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T20:03:20+02:00",
+            "date_modified": "2022-10-27T20:03:20+02:00"
+        },
+        {
+            "id": "https://supplementgingembre.github.io/gh-pages/test1.html",
+            "url": "https://supplementgingembre.github.io/gh-pages/test1.html",
+            "title": "Test1 ",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor dolor felis, id porta nisl malesuada et. Nulla interdum iaculis imperdiet. Vestibulum vestibulum at dui at sagittis. Maecenas augue lorem, blandit sit amet eleifend nec, feugiat at nisi. Duis quis nisi urna. In vitae iaculis&hellip;",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor dolor felis, id porta nisl malesuada et. Nulla interdum iaculis imperdiet. Vestibulum vestibulum at dui at sagittis. Maecenas augue lorem, blandit sit amet eleifend nec, feugiat at nisi. Duis quis nisi urna. In vitae iaculis urna, quis accumsan lectus. Aenean dignissim dapibus metus. Etiam laoreet volutpat neque, a elementum enim laoreet cursus. Morbi tortor leo, hendrerit et lectus dictum, aliquet semper ex. Curabitur blandit scelerisque ligula ut rutrum. Vestibulum condimentum sapien a quam gravida rutrum. Maecenas vitae semper nibh, eget facilisis leo. Phasellus eu felis et orci varius mollis. Ut eget varius massa.</p>\n<p>Donec gravida, massa in hendrerit vehicula, odio diam luctus tortor, et pellentesque dui dolor eget orci. Nunc posuere interdum mauris in euismod. In pharetra vulputate elementum. Donec in elementum mi, quis semper ante. Sed vitae maximus ante, non feugiat massa. Cras a eleifend erat. Vestibulum lacinia eget massa nec pharetra. Proin sodales non orci et sagittis. Nulla sit amet ultrices enim, in pellentesque est. Suspendisse eget massa sed dui finibus blandit. Nulla facilisis, dolor non luctus posuere, lectus nunc pulvinar turpis, pretium posuere est lectus at dolor. Ut viverra pharetra ultrices. Curabitur in elit ut ligula consequat euismod vitae et urna. Suspendisse non diam id dui placerat lobortis.</p>",
+            "author": {
+                "name": "SupplementGingembre"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-27T20:00:53+02:00",
+            "date_modified": "2022-10-27T20:00:53+02:00"
+        }
+    ]
+}
